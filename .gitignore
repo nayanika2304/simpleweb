@@ -1,3 +1,5 @@
 # Project exclude paths
 /node_modules/
 /visits/node_modules/
+/complex/worker/node_modules/
+/complex/server/node_modules/
